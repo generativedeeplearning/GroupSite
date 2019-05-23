@@ -1,0 +1,42 @@
+baseURL = "https://generativedeeplearning.github.io"
+languageCode = "en-us"
+theme = "hugo-hero-theme"
+title = "Generative Deeplearning"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "This is meta description in config.toml file"
+    meta_og_title = "Generative Deeplearning"
+    meta_og_type = "website"
+    meta_og_url = "https://generativedeeplearning.github.io"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "This is meta og description in config.toml file"
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@generativedeeplearning"
+    meta_twitter_creator = "@generativedeeplearning"
+
+[[menu.main]]
+	name = "Tutorials"
+	url = "/tutorials/"
+    weight = 1
+
+[[menu.main]]
+    name = "Workshops"
+    url = "/workshops/"
+    weight = 2
+
+[[menu.main]]
+    name = "Papers & Code"
+    url = "/papers/"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
