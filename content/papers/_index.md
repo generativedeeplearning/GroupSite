@@ -6,7 +6,7 @@ heroSubHeading: ''
 heroBackground: ''
 ---
 
-## Disentanglement Learning 
+<!-- ## Disentanglement Learning 
 
 [1] InfoGAN- Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS16. [paper](https://arxiv.org/abs/1606.03657), [code](https://github.com/openai/InfoGAN)
 
@@ -26,4 +26,4 @@ heroBackground: ''
 
 [1] Original Generative Adversarial Networks from Ian Goodfellow, NIPS14. [paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf). 
 
-[2] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR16. [paper](https://arxiv.org/abs/1511.06434), [code](https://github.com/carpedm20/DCGAN-tensorflow), [tutorial from Tensorflow](https://www.tensorflow.org/alpha/tutorials/generative/dcgan). 
+[2] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR16. [paper](https://arxiv.org/abs/1511.06434), [code](https://github.com/carpedm20/DCGAN-tensorflow), [tutorial from Tensorflow](https://www.tensorflow.org/alpha/tutorials/generative/dcgan).  -->

@@ -7,6 +7,7 @@ heroHeading: 'Work'
 heroSubHeading: 'Our portfolio and previous projects'
 heroBackground: 'https://source.unsplash.com/1600x900/?architecture'
 image: 'work/work1.jpg'
+summary: 'summary about this work'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

@@ -8,6 +8,7 @@ weight: 1
 heroHeading: 'GAN Tutorials'
 heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
+summary: 'We summarize good tutorials about Generative Adversarial Network (GAN)'
 ---
 We summarize good tutorials about Generative Adversarial Network (GAN)
 

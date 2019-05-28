@@ -8,6 +8,7 @@ weight: 100
 heroHeading: 'Services'
 heroSubHeading: 'Services that grow with your business'
 heroBackground: 'services/service1.jpg'
+summary: 'Summary about this work'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

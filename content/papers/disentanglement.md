@@ -3,11 +3,12 @@ title: "Disentanglement Learning"
 date: 2018-02-10T11:52:18+07:00
 icon: "services/service-icon-1.png"
 featured: true
-draft: true
+draft: false
 weight: 100
 heroHeading: ''
 heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
+summary: 'List noticeable papers, code and datasets on the topic of *_Disentanglement Learning_*'
 ---
 List noticeable papers, code and datasets on the topic of *_Disentanglement Learning_*
 

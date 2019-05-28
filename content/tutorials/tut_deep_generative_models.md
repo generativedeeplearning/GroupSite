@@ -8,6 +8,7 @@ weight: 1
 heroHeading: 'Generative Models Tutorials'
 heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
+summary: 'Tutorials on a general topic of Generative Models'
 ---
 
 Tutorials on a general topic of Generative Models
